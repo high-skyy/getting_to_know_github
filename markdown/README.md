@@ -38,6 +38,6 @@ syntax : [텍스트](링크주소) or [텍스트][참조명] \n [참조명]:링�
 8. 코드 블록 추가하기
 위 아래 줄에 가센트 기호 파이썬 참조문이랑 같음
 ```
-int num;
-num = 1;
+from collections import deque
+dq = deque()
 ```

@@ -31,5 +31,6 @@ syntax : ---
 
 syntax : [텍스트](링크주소) or [텍스트][참조명] \n [참조명]:링크주소
 
-[블로그 참조]:https://lsh424.tistory.com/37
 [블로그 참조] (https://lsh424.tistory.com/37)
+[블로그 참조] (https://lsh424.tistory.com/37)
+[블로그 참조]:https://lsh424.tistory.com/37

@@ -2,8 +2,10 @@
 ## Git이란?
 ### 분산 버전관리 시스템(Distributed Version control Systems - DVCS)
 
-## Git에 대한 이해
+## Git에 대한 이해(도식)
 ![image](https://user-images.githubusercontent.com/105041834/187136914-cc0e8193-bade-4839-8c87-b54d41b085ec.png)
+
+## Git에 대한 이해(파일 종류)
 **1. 로컬 (local) = Working Directory = Working Copy** 
 - 위치 : 프로젝트 폴더
 - 현재 프로젝트 폴더에 존재하는 파일들 그 자체를 의미한다.

@@ -4,10 +4,15 @@
 
 ## Git에 대한 이해
 ![image](https://user-images.githubusercontent.com/105041834/187136914-cc0e8193-bade-4839-8c87-b54d41b085ec.png)
-### 로컬 (local) = Working Directory = Working Copy 
+**1. 로컬 (local) = Working Directory = Working Copy** 
 - 위치 : 프로젝트 폴더
 - 현재 프로젝트 폴더에 존재하는 파일들 그 자체를 의미한다.
 > 나의 저장소를 의미하며 내가 사용하는 작업대를 의미한다. 프로젝트 시작 시 git pull을 통해 받아 온 내용들을 나의 작업대로 옮겨 작업을 진행하면 된다.
+
+**2. 인덱스 (index) = Staging Area = Cache**
+- 위치 : 프로젝트 폴더 하위 .git/index 파일
+- 커밋이 이뤄질 준비가 된 파일의 내용들이 위치하는 영역, 실제로는 하나의 파일 (.git/index)로서 존재한다. 로컬에 변동 사항이 생겼을 경우, git add 명령어를 수행하면 해당 변동 사항을 인덱스 영역에 반영시킬 수 있다. 참고로, 인덱스 파일 (.git/index)에는 커밋이 이뤄질 준비가 된 파일의 내용들 각각에 대하여 그 파일명과 해당 파일의 내용을 담고 있는 Blob 파일의 주소(이름)이 기록된다.
+> 내 변동 사항을 index 파일에 저장할려면 git add 명령어를 사용해야 한다.
 
 2. 장점
 - 협업에서 수정하는 여러 변경사항들을 쉽게 관리 할 수 있다. (버전을 관리함으로 써)

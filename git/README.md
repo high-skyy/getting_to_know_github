@@ -34,6 +34,6 @@ cf2) git checkout -b 야나 : '야나' 라는 브렌치를 생성 후 야나 브
 - git merge : 개별 branch에서 마친 작업을 master branch로 병합.
 
 
-
+5. References
 [참고](https://yanacoding.tistory.com/4)
 [참고](https://it-eldorado.tistory.com/4)

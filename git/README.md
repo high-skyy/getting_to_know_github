@@ -3,7 +3,8 @@
 분산 버전관리 시스템(Distributed Version control Systems - DVCS)
 
 2. Git 작동 방식
-https://blog.kakaocdn.net/dn/bocEgR/btqEnJmJLul/7aDHJLQUrj84OUKeIuSv50/img.png
+![image](https://user-images.githubusercontent.com/105041834/187136914-cc0e8193-bade-4839-8c87-b54d41b085ec.png)
+
 
 2. 장점
 - 협업에서 수정하는 여러 변경사항들을 쉽게 관리 할 수 있다. (버전을 관리함으로 써)

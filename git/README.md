@@ -5,8 +5,8 @@
 2. Git에 대한 이해
 ![image](https://user-images.githubusercontent.com/105041834/187136914-cc0e8193-bade-4839-8c87-b54d41b085ec.png)
 - 로컬 (local) = Working Directory = Working Copy 
-+ 위치 : 프로젝트 폴더
-+ 현재 프로젝트 폴더에 존재하는 파일들 그 자체를 의미한다.
+위치 : 프로젝트 폴더
+현재 프로젝트 폴더에 존재하는 파일들 그 자체를 의미한다.
 > 나의 저장소를 의미하며 내가 사용하는 작업대를 의미한다. 프로젝트 시작 시 git pull을 통해 받아 온 내용들을 나의 작업대로 옮겨 작업을 진행하면 된다.
 
 2. 장점

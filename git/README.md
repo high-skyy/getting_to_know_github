@@ -2,6 +2,9 @@
 1. Git이란?
 분산 버전관리 시스템(Distributed Version control Systems - DVCS)
 
+2. Git 작동 방식
+https://blog.kakaocdn.net/dn/bocEgR/btqEnJmJLul/7aDHJLQUrj84OUKeIuSv50/img.png
+
 2. 장점
 - 협업에서 수정하는 여러 변경사항들을 쉽게 관리 할 수 있다. (버전을 관리함으로 써)
 - 인터넷 연결이 되지 않은 곳에서도 개발을 진행 분산 버전관리이기 때문에 중앙 저장소가 삭제되어도 원상복구

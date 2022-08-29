@@ -8,12 +8,12 @@
 (각 협업자들은 원래 소스코드의 내용에서 각자 본인이 바꾼 부분의 버전을 가지고 있다.)
 
 3. 기본 용어
-*Repository : 저장소
-*Staging Area : 저장소에 commit하기 전에 commit을 준비하는 위치
-*Commit : 현재 변경된 작업 상태를 점검을 마치며 확정하고 저장소에 저장하는 작업
-*Head : 현재 작업중인 Branch를 가리킨다.
-*Branch : 가지 도는 분기점 작업을 할때에 **현재 상태를 복사**하여 Branch 작업을 한 후에 완전하다 싶을 때 Merge하여 작업을 한다.
-*Merge : 다른 Branch의 내용을 현재 Branch로 가져와 합치는 작업
+- Repository : 저장소
+- Staging Area : 저장소에 commit하기 전에 commit을 준비하는 위치
+- Commit : 현재 변경된 작업 상태를 점검을 마치며 확정하고 저장소에 저장하는 작업
+- Head : 현재 작업중인 Branch를 가리킨다.
+- Branch : 가지 도는 분기점 작업을 할때에 **현재 상태를 복사**하여 Branch 작업을 한 후에 완전하다 싶을 때 Merge하여 작업을 한다.
+- Merge : 다른 Branch의 내용을 현재 Branch로 가져와 합치는 작업
 
 4. git 기본 명령어
 - git help : 도움말 기능 (사용법이 궁금한 명령어 -> 'git help [궁금한 명령어]' 를 타이핑 시, 설정과 사용에 대한 도움말 출력

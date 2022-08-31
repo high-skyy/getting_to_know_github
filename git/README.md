@@ -18,11 +18,11 @@
 **3. Tree 파일**
 - 커밋 시점의 파일들 각각에 대해 그 파일명과 해당 파일의 내용을 담고 있는 Blob 파일의 주소(이름)이 기록된다.
 
-**4. commit파일이 여러 개일 경우 각 commit 단계의 파일들을 복구하는 방법 (추가사항)**
+**4. commit파일이 여러 개일 경우 각 commit 단계의 파일들을 복구하는 방법**(추가사항)
 > github에서 History를 누르면 이제 까지 commit한 내용들을 확인할 수 있다. 여기서 commit ID(SHA)를 복사한 뒤 터미널에 아래 명령어를 치면 작업 내용들을 복구 할 수 있다.
-"""
+```
 git reset --hard [commit id]
-"""
+```
 
 ## Git에 대한 이해(저장소)
 
@@ -53,9 +53,9 @@ git reset --hard [commit id]
 Ctrl + Alt + S 를 눌러서 settings -> tools의 terminal로 들어가서 shell path의 경로를 설치한 git 프로그램의 경로로 들어가서 bin 폴더의 bash 경로를 "(해당경로)" --login을 붙여서 설정
 > Pycharm환경 내에서 git의 명령어를 사용 가능하게 만든다.
 > Repository 만들고 주소 복사해서 만들고 싶은 위치에 만들 수 있음 (명령 프롬프트 창 열어서)
-"""
+```
 C:\>git clone(해당 주소)
-"""
+```
 > Git을 설치했기 때문에 명령 프롬프트 창에서 git 명령어 사용이 가능하다.
 
 

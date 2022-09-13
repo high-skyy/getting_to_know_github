@@ -54,7 +54,7 @@ Ctrl + Alt + S 를 눌러서 settings -> tools의 terminal로 들어가서 shell
 > Pycharm환경 내에서 git의 명령어를 사용 가능하게 만든다.
 > Repository 만들고 주소 복사해서 만들고 싶은 위치에 만들 수 있음 (명령 프롬프트 창 열어서)
 ```
-C:\>git clone(해당 주소)
+C:\>git clone "해당 주소"
 ```
 > Git을 설치했기 때문에 명령 프롬프트 창에서 git 명령어 사용이 가능하다.
 

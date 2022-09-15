@@ -41,3 +41,5 @@ syntax : [텍스트](링크주소) or [텍스트][참조명] \n [참조명]:링�
 from collections import deque
 dq = deque()
 ```
+
+9. 한줄을 띄우고 싶으면 Space bar 2번 엔터 한번 하면 된다.
